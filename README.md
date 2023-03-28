@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adarshurs
 - 👀 I’m a flutter mobile app developer and a tech enthusiast 
-- 🌱 I've been working independently from last 6 or so years on mobile apps, do check out my apps on https://vlcmobileremote.com
+- 🌱 I've been working independently from last 6 or so years on mobile apps, check out my apps on https://vlcmobileremote.com
 - 📫 Reach me on twitter.com/adarshurs for collabrations and opportunities 
 
 <!---
